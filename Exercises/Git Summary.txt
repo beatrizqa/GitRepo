@@ -1,0 +1,24 @@
+In your teams, please select a Product Owner.
+
+They should make a Git repository entitled GitPuns-<team_name> on GitHub.
+
+This repo will encompass all aspects of Git that we've covered.
+
+This includes:
+
+
+	
+	adding, committing, and pushing
+	forking and cloning
+	reverting and/or resetting commits
+	a feature-branch model with MAIN, DEV, and FEATURE-<xyz> branches
+	each team member should fork and clone their own version of this repo (Product Owner won't have to fork it)
+	each team member must contribute at least two FEATURE-<xyz> bgit branchranches
+	each branch should contain a text file with an awful pun
+	pull requests for merging your FEATURE-<xyz>s to your DEV (your copy of the original repo!)
+	pull request(s) for merging the PO's DEV to the PO's MAIN
+	setting your group members as collaborators
+	branch protection on the MAIN and DEV branches (PO's repo)
+	3 approvals before a PR is accepted, one must be from the PO
+	I giving you all until 1645, so that you can really nail this.
+	Once you're happy, add me (savannahvaith) as a collaborator
